@@ -55,6 +55,8 @@ Pull Requests allow you to propose a set of changes to the content of a project.
 * Push your changes - upload the changes you saved into Git to your copy of the project on GitHub
 * Submit a Pull Request - create a Pull Request requesting that the original project owner/maintainer take your changes and make them part of their project
 
+Don't worry if that sounds like a lot or is confusing right now. At the moment, we're just introducing some terminology so it's not completely new to you when class starts. You'll get plenty of chances to practice your Git and GitHub skills as the course progresses, and your teacher will be available to answer any questions you might have!
+
 
 ## Summary
 
